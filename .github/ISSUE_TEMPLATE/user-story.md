@@ -7,12 +7,12 @@ assignees: ''
 
 ---
 
-As a Customer support
-I need a access to the customer details
-So that I can better address their issues
+As a <role>
+I need a<functionality>
+So that I <outcome>
 
 ######Assumptions & Details
-These details will be pulled from and excel spreadsheet
-They contain the customers Identification details and SIM card number
+<  >
 
 ####Acceptance criteria
+<>
