@@ -15,4 +15,3 @@ So that I <outcome>
 <  >
 
 ####Acceptance criteria
-<>
