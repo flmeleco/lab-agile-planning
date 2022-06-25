@@ -11,7 +11,12 @@ As a <role>
 I need a<functionality>
 So that I <outcome>
 
-######Assumptions & Details
-<  >
+###Assumptions & Details
 
-####Acceptance criteria
+
+###Acceptance criteria
+```Gherkin
+Given
+When
+Then
+```
